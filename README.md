@@ -118,12 +118,11 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vilassonawaneit-wq&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub contribution statistics" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vilassonawaneit-wq&theme=tokyonight&hide_border=true" height="165" alt="GitHub contribution streak" />
 
 </div>
 
-> **Note:** these cards use third-party image services. If one is temporarily unavailable, only that image will not render.
+> **Note:** this card uses a third-party image service. If it is temporarily unavailable, only that image will not render.
 
 ---
 
