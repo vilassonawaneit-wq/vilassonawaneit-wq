@@ -29,6 +29,12 @@ I'm **Vilas Sonawane**, an aspiring **Identity and Access Management (IAM) Engin
 
 ---
 
+## Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/vilassonawaneit-wq)
+
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:vilas.sonawane.it@gmail.com)
+
 ## 🛠️ Technologies & Tools
 
 <div align="center">
