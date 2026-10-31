@@ -61,7 +61,7 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vilassonawaneit-wq&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub contribution statistics" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vilassonawaneit-wq&theme=tokyonight&hide_border=true" height="165" alt="GitHub contribution streak" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vilassonawaneit-wq&theme=tokyonight&hide_border=true" height="165" alt="GitHub contribution streak" />
 
 </div>
