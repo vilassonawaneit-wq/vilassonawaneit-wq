@@ -29,11 +29,30 @@ I'm **Vilas Sonawane**, an aspiring **Identity and Access Management (IAM) Engin
 
 ---
 
-## Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/vilassonawaneit-wq)
+## 📫 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:vilas.sonawane.it@gmail.com)
+<p align="center">
+
+<a href="https://github.com/vilassonawaneit-wq">
+  <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:sonawanev4479@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="tel:+919766507017">
+  <img src="https://img.shields.io/badge/Phone-Contact_Me-16A34A?style=for-the-badge&logo=googlevoice&logoColor=white" />
+</a>
+
+</p>
+
+**Email:** sonawanev4479@gmail.com
+
+**Phone:** +91 9766507017
+
+**Location:** Maharashtra, India
 
 ## 🛠️ Technologies & Tools
 
